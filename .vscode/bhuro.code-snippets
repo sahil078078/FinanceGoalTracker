@@ -1,0 +1,8 @@
+{
+  "Print to console": {
+    "scope": "dart",
+    "prefix": "bhuro",
+    "body": ["  debugPrint('$1');"],
+    "description": "Log output to console"
+  }
+}

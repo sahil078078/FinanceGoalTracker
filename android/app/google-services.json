@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "246083970902",
+    "project_id": "finance-goal-tracker-10056",
+    "storage_bucket": "finance-goal-tracker-10056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:246083970902:android:e23636bca5f573aca458f7",
+        "android_client_info": {
+          "package_name": "com.financetracker_sahil.finance_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1mQLejhyb92EprWq-Mmx3hG3rekDq1OQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
